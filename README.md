@@ -1,2 +1,2 @@
-# DeepLearning
-Example Models of Deep Learning
+# Toy examples of neural networks & deep learning
+
